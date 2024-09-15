@@ -29,17 +29,18 @@ These capabilities make LLM Agents widely applicable in many fields, including e
 
 ### What is the purpose of Agent_World?
 
+Agent_World is a library that provides a framework for constructing and managing LLM Agents. It aims to simplify the process of building, training, and deploying agents, making it easier for developers to create and customize their own agents.
+
 ## How to Install
 
-
-
-## How to use it?
-
-
-
-
+## How to use it
 
 ### Use cases
 
+1. **Personal Assistant**: An agent that can help with tasks like scheduling, note-taking, and reminders.
 
+2. **Customer Support**: An agent that can answer customer questions, provide product recommendations, and handle returns.
 
+3. **Content Creation**: An agent that can write articles, blog posts, and social media content.
+
+4. **Data Analysis**: An agent that can analyze data, generate reports, and provide insights.
